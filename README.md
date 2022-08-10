@@ -46,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raushan8292&show_icons=true&locale=en" alt="raushan8292" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raushan8292&" alt="raushan8292" /></p>
+
+[![MasterHead](https://c.tenor.com/8KxPEexl-FUAAAAd/pankaj-pankaj-tripathi.gif)](https://raushankumar82.netlify.app/)
