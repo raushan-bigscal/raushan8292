@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://raushankumar82.netlify.app/](https://raushankumar82.netlify.app/)
 
-- 💬 Ask me about **JAVA, Android Developer And Forntend Web Devlopment a**
+- 💬 Ask me about **JAVA, Android Developement And Forntend Web Devlopment**
 
 - 📫 How to reach me **raushanchauhan8292@gmail.com**
 
